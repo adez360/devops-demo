@@ -49,3 +49,5 @@ hello/
 └── .github/workflows/
     └── ci.yml           # push / PR 自動跑 pytest
 ```
+
+> 第三次示範：這一行是用來重拍教材截圖的。
